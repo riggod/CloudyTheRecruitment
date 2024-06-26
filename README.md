@@ -78,10 +78,3 @@ if($result === TRUE) {
 	exit();
 }
 ```
-
-
-# Contribution
-Some Validations Added By Gunesh Shanbhag (gshanbhag525)
-
-# Free Git-Training for Newbies
-https://try.github.io/levels/1/challenges/1
